@@ -1,0 +1,26 @@
+{
+  "name": "node-sequelize-api",
+  "version": "1.0.0",
+  "description": "Node API Sequelize with MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahabuddinAhmed/Node-Sequelize-API.git"
+  },
+  "author": "Shahabuddin Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahabuddinAhmed/Node-Sequelize-API/issues"
+  },
+  "homepage": "https://github.com/ShahabuddinAhmed/Node-Sequelize-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.2"
+  }
+}
